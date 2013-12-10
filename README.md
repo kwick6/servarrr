@@ -4,4 +4,4 @@ Created a web server from scratch.
 
 Added a clever 404 error page with image.
 
-![Screenshot](https://raw.github.com/kwick6/servarr/JarJar3PO_Departure.png)
+![Screenshot](https://raw.github.com/kwick6/servarr/master/404.jpg)
