@@ -2,14 +2,15 @@ require 'socket'
 require 'uri'
 
 # Files will be served from this directory
-WEB_ROOT = './public'
+WEB_ROOT = './'
 
 # Map extensions to their content type
 CONTENT_TYPE_MAPPING = {
   'html' => 'text/html',
   'txt' => 'text/plain',
   'png' => 'image/png',
-  'jpg' => 'image/jpeg'
+  'jpg' => 'image/jpeg',
+  'css' => 'text/css'
 }
 
 # Treat as binary data if content type cannot be found
